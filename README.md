@@ -29,11 +29,7 @@ pip install numpy
     cd Lab9-IA
     ```
 
-2. Ejecuta el script `hmm.py` para utilizar la clase HMM y realizar las predicciones sobre secuencias de observaciones.
-
-    ```bash
-    python hmm.py
-    ```
+2. Ejecuta el script de `hmm` insertado en el notebook para utilizar la clase HMM y realizar las predicciones sobre secuencias de observaciones.
 
 3. El código generará una secuencia de observaciones y luego calculará las probabilidades forward y backward, además de las probabilidades de estado en cada momento de tiempo.
 
